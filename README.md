@@ -1,1 +1,1 @@
-# Advanced-RAG-App-using-AWS-Bedrock-and-Langchain
+# AWS-Bedrock
